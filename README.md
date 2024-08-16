@@ -102,3 +102,77 @@ The following example demonstrates a inverted numbered right pyramid:
 1
 
 ```
+
+## 7. Star Pyramid
+
+The following example demonstrates a star pyramid:
+
+### Input : 5
+
+### Output
+
+```plaintext
+
+     *
+    ***
+   *****
+  *******
+ *********
+```
+
+## 8. Inverted Star Pyramid
+
+The following example demonstrates a inverted star pyramid:
+
+### Input : 5
+
+### Output
+
+```plaintext
+
+*********
+ *******
+  *****
+   ***
+    * 
+```
+
+## 9. Diamond Star Pattern
+
+The following example demonstrates a diamond star pattern:
+
+### Input : 5
+
+### Output
+
+```plaintext
+    *
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****
+   ***
+    * 
+```
+
+## 10. Half Diamond Star Pattern
+
+The following example demonstrates a half diamond star pattern:
+
+### Input : 5
+
+### Output
+
+```plaintext
+*
+**
+****
+*****
+****
+***
+**
+* 
+```
