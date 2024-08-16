@@ -110,6 +110,7 @@ void pintHalfDiamondStarPattern(int n){
         }
         cout << endl;
     }
+    n--;
     for(int i = 0; i < n; i++){
         for(int j = n-i; j > 0 ; j--){
             cout << "*";
